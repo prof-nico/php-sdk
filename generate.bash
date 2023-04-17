@@ -1,0 +1,1 @@
+npx @openapitools/openapi-generator-cli generate -i monite-2023-03-14.yaml -g php --package-name monite-php-sdk
