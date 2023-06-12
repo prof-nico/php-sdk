@@ -1,4 +1,5 @@
 {
+    "name" : "Monite"
     "description": "The Monite REST API, for Monite partners to integrate with our solution.",
     "keywords": [
         "openapitools",
